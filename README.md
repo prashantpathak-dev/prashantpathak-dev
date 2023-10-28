@@ -1,6 +1,6 @@
 Hello, I'm Prashant! 👋
 
-My passion lies in extracting valuable insights from data, tackling intricate problems, and making informed decisions based on data-driven analysis.
+I'm passionate about extracting insights from data, untangling intricate problems, and driving decisions backed by data-driven analysis.
 
 Skills and Tools
 - Programming: Python
@@ -11,14 +11,15 @@ Skills and Tools
 - ML Models: Linear & Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
 - Deep Learning Frameworks: TensorFlow, Keras
 
-How I Can Assist
-- 💡 Unearth insights from complex datasets.
-- 📈 Craft data visualizations to convey trends.
-- 🤖  Develop predictive machine learning models.
-- 📊 Aid in statistical analysis and hypothesis testing.
+How I Can Help
+- 💡 Provide insights into complex datasets.
+- 📈 Craft visualizations to communicate data trends.
+- 🤖 Develop machine learning models for predictive tasks.
+- 📊 Assist with statistical analysis and hypothesis testing.
+
 
 Let's Connect
-- 📫 Email me: [prashantpathak.dev@gmail.com](mailto:prashantpathak.dev@gmail.com)
-- 💼 Find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/prashantpathak-dev/)
+- 📫 Email: [prashantpathak.dev@gmail.com](mailto:prashantpathak.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/prashantpathak-dev](https://www.linkedin.com/in/prashantpathak-dev/)
 
-I firmly believe that every dataset conceals an untold story, and I eagerly embark on data-driven journeys to unravel captivating narratives hidden within the data.
+I'm a strong believer that every dataset has an untold story hidden within, just waiting for someone curious to uncover it. With excitement and curiosity, I eagerly dive into each data-driven journey, ready to weave fascinating stories from the intricate details found within the data.
