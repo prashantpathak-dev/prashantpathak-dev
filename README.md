@@ -1,5 +1,3 @@
-# Prashant Pathak
-
 Hello, I'm Prashant! 👋
 
 I'm passionate about building innovative AI solutions, leading teams, and driving impactful results. I thrive on leveraging Generative AI, NLP, and Machine Learning to solve complex problems and create intelligent applications.
