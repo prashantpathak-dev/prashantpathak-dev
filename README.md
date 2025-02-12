@@ -1,25 +1,32 @@
+# Prashant Pathak
+
 Hello, I'm Prashant! 👋
 
-I'm passionate about extracting insights from data, untangling intricate problems, and driving decisions backed by data-driven analysis.
+I'm passionate about building innovative AI solutions, leading teams, and driving impactful results. I thrive on leveraging Generative AI, NLP, and Machine Learning to solve complex problems and create intelligent applications.
 
-Skills and Tools
-- Programming: Python
-- Data Handling: Pandas, Numpy, Scipy
-- Data Visualization: Matplotlib, Seaborn
-- Statistical Analysis: statsmodels
-- Machine Learning: scikit-learn
-- ML Models: Linear & Logistic Regression, Naive Bayes, Decision Trees, Random Forest, AdaBoost, XGBoost
-- Deep Learning Frameworks: TensorFlow, Keras
+## Skills and Tools
 
-How I Can Help
-- 💡 Provide insights into complex datasets.
-- 📈 Craft visualizations to communicate data trends.
-- 🤖 Develop machine learning models for predictive tasks.
-- 📊 Assist with statistical analysis and hypothesis testing.
+**Conversational AI:** NLP, NLTK, spaCy, Rasa, LLM, RAG, Prompt Engineering, Huggingface, Langchain, ChromaDB
 
+**Machine Learning:** Regression Analysis, Statistical Analysis, Statsmodels, Scikit-Learn
 
-Let's Connect
-- 📫 Email: [prashantpathak.dev@gmail.com](mailto:prashantpathak.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/prashantpathak-dev](https://www.linkedin.com/in/prashantpathak-dev/)
+**Programming Languages:** Python, Javascript, NodeJS, SQL, Pandas, Numpy, Scipy, Matplotlib, Seaborn
 
-I'm a strong believer that every dataset has an untold story hidden within, just waiting for someone curious to uncover it. With excitement and curiosity, I eagerly dive into each data-driven journey, ready to weave fascinating stories from the intricate details found within the data.
+**Cloud:** GCP (CCAI, Dialogflow CX), AWS (Athena, Lambda, EventBridge, CloudWatch, S3, CodeCommit)
+
+**Other:** Tableau, Agile, OOP
+
+## How I Can Help
+
+💡 Develop and deploy high-performing AI systems.
+🤖 Build intelligent chatbots and conversational AI experiences.
+📈 Optimize AI solutions using data analysis and machine learning.
+🚀 Lead and mentor AI development teams.
+✨ Translate complex technical concepts into clear explanations.
+
+## Let's Connect
+
+📫 Email: prashantpathak.dev@gmail.com
+💼 LinkedIn: linkedin.com/in/prashantpathak-dev
+
+I'm a strong believer in the transformative power of AI.  I'm excited to collaborate and build the next generation of intelligent applications.  Let's connect and explore how we can bring your AI vision to life!
