@@ -7,17 +7,17 @@ I'm passionate about building innovative AI solutions, leading teams, and drivin
 ---
 ### Skills and Tools
 
-- **Generative AI:** LLM, RAG, Langchain, Huggingface, ChromaDB, Prompt Engineering
+- **Generative AI:** LLM (LLaMA, GPT), RAG, Vector Database (ChromaDB), Huggingface, Langchain
 
-- **Conversational AI:** NLP, NLTK, spaCy, Rasa
+- **Conversational AI:** Transformers, Prompt Engineering, Conversational AI (NLTK, spaCy, Rasa)
 
-- **Machine Learning:** Regression Analysis, Statistical Analysis, Statsmodels, Scikit-Learn
+- **Machine Learning:** Regression, Classification, Clustering, Deep Learning, TensorFlow, PyTorch, Scikit-learn
 
-- **Programming Languages:** Python, Javascript, NodeJS, SQL, Pandas, Numpy, Scipy, Matplotlib, Seaborn
+- **Programming Languages:** Python (Pandas, Numpy, Scipy, Matplotlib, Seaborn), SQL, Javascript, NodeJS
 
-- **Cloud:** GCP (CCAI, Dialogflow CX), AWS (Athena, Lambda, EventBridge, CloudWatch, S3, CodeCommit)
+- **Cloud:**  GCP (Vertex AI, CCAI, Dialogflow CX, Cloud Functions, BigQuery), AWS (SageMaker, Lambda, Athena)
 
-- **Other:** Tableau, Agile, OOP
+- **Other:** LLMOps, MLOps, Docker, Git, Tableau, MS Excel, Asana, Agile, OOP
 
 ---
 ### How I Can Help
